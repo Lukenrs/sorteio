@@ -112,9 +112,3 @@ export default class Main extends Component{
         )
         }
 }
-let lista = [1,2,5]
-let n = 1.5
-let rand=Math.floor(Math.random() * lista.length);
-let nu = lista[rand]
-console.log(nu)
-console.log(Math.floor(n))
